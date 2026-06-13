@@ -1,0 +1,19 @@
+Phishing emails often use urgency to pressure users into acting quickly.
+
+Reply-To mismatches are common indicators of phishing attempts.
+
+Shortened URLs can hide malicious destinations.
+
+IP-based URLs are frequently used in phishing attacks.
+
+Executable attachments such as .exe and .bat files may contain malware.
+
+Phishing attacks often impersonate banks, payment services, and popular websites.
+
+Users should verify sender identity before clicking links.
+
+Suspicious requests for passwords or account verification should be treated as high risk.
+
+Social engineering techniques attempt to manipulate users into revealing sensitive information.
+
+Unexpected attachments should never be opened without verification.
